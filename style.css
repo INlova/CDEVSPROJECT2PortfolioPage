@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Aldrich|Average+Sans|Ropa+Sans');
+
+
+#nav {
+  background-color: rgb(210,210,210);
+}
+.navbar-brand {
+  font-size: 20px;
+  color: rgb(10,10,20);
+  font-family: 'Average Sans', sans-serif;
+}
+
+#home {
+  background: url(https://res.cloudinary.com/simpleview/image/fetch/c_fill,f_auto,h_150,q_75,w_650/http://res.cloudinary.com/simpleview/image/upload/v1494427280/clients/providence/waterfire_2e7ad548-458b-44c2-aab6-a53664410932.jpg) no-repeat;
+  background-size: cover;
+  margin: 0px;
+}
+
+#aboutme {
+  font-family: Ropa Sans;
+  background: url(http://www.datafactory.la/wp-content/themes/datafactory/images/fondo_radial.jpg) no-repeat;
+  background-size: cover;
+  margin: 0px;
+}
+
+#projects {
+  background: url(http://www.solidbackgrounds.com/images/1920x1200/1920x1200-golden-poppy-solid-color-background.jpg) no-repeat;
+  background-size: cover;
+  margin: 0px;
+}
+
+#contact {
+  background: url(https://storage.googleapis.com/cart-checkout/7b86958f-bf8d-47ea-9a9c-8270fb8c7abe) no-repeat;
+  background-size: cover;
+  margin: 0px;
+}
+
+.person {
+  font-family: Aldrich,'monospace';
+  font-size: 50px;
+  color: rgb(90,100,220);
+  margin-top: 250px;
+}
+
+#brief {
+  font-family: Aldrich,'monospace';
+  font-size: 40px;
+  color: rgb(50,200,50);
+  margin-top: 150px;
+}
+
+#mypic {
+  margin-top: 100px;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+}
+#bio {
+  font-family: Average Sans,'monospace';
+  font-size: 20px;
+  color: rgb(90,100,220);
+  background-color: white;
+}
+
+#biotitle {
+  color: rgb(30,30,30);
+  text-align: center;
+}
+
+#projectstitle {
+  font-family: Ropa Sans;
+  color: rgb(90,100,220);
+  text-align: center;
+}
+
+#contacttitle {
+  font-family: Ropa Sans;
+  color: black;
+}
+
+footer {
+  color: rgb(25,25,25);
+}
